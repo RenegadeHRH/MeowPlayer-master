@@ -8,7 +8,7 @@ import sqlite3
 
 class config:
     def __init__(self):
-        self.path = r'F:\桌面\毕设\MusicRecommend\db.sqlite3'
+        self.path = r'E:\download\20220505\毕设\MusicRecommend\db.sqlite3'
 
 
 SQLconfig = config()
